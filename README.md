@@ -1,6 +1,8 @@
 # PRACHI SAXENA
 
-![photo-2019-01-30-22-56-40](https://user-images.githubusercontent.com/47218789/52392579-86560980-2a70-11e9-802f-a0231635576e.jpg)
+<p align ="center">
+<img src="https://user-images.githubusercontent.com/47218789/52392579-86560980-2a70-11e9-802f-a0231635576e.jpg" width="300" height="400">
+</p>
 
 #### PROFESSIONAL EXPERIENCE
 
